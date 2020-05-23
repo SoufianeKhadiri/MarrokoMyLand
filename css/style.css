@@ -50,13 +50,14 @@ li {
 	}
 
 
-#webTitle {
+#h1-h2 {
 
 	text-decoration: #c23616;
 	color:#c23616;
 	float:left;
 	padding-left:1.5em;
-    font-family: Courier, monospace;
+    font-family: Verdana;
+    font-weight: bold
 }
 
 
@@ -73,7 +74,7 @@ li {
 .text_para{
 	color: #2c2c2c;
 	font-size: 18px;
-	font-family: verdana;
+	font-family: Georgia;
 	line-height: 1.5em;
 	padding: 20px;
 
